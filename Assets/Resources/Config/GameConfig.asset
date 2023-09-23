@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 808c22a1a84b4131b1d7ac351a5f3331, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  UIPrefab: {fileID: 4693505276607519893, guid: 7a15627ca96e0774195f2661626b7322, type: 3}
+  LoadingScene: 1
+  MainScene: 2
